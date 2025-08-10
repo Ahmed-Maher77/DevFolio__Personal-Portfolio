@@ -36,7 +36,7 @@
 
 ## 👀 Website Preview
 <a href="https://ahmed-maher77.github.io/DevFolio__Personal-Portfolio/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/10a40b5b-c54f-4753-8f41-ff04d37e1967" alt="website preview - UI Mockup" width="400">
 </a>
 
 <hr/>
